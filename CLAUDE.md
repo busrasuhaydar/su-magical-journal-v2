@@ -46,3 +46,5 @@ Kişisel yaşam + sanat kariyeri + proje yönetimi uygulaması. Arayüz tamamen 
 - Yayın: değişikliği `main`'e commit + push (Actions kendiliğinden yayınlar). Canlıda eski sürüm görünürse service worker önbelleği: sert yenile ya da `?v=<sayı>` ekle.
 - Komut zincirinde `sed -i` macOS'ta bozuk; düzenleme için Python/Edit kullan ve `tsc` geçmeden commit/push etme.
 - Yanıtlar kısa olsun.
+
+- Token kuralları ve nedenleri: `TOKEN-TASARRUFU.md` (uygula).
